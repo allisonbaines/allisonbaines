@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @allisonbaines
 - 👀 I’m interested in ... Healthcare and improving patient outcomes through data
 - 🌱 I’m currently learning ... all things data analytics
-- 💞️ I’m looking to collaborate on ... data
 - 📫 How to reach me ... allison.baines@gmail.com
 
 <!---
